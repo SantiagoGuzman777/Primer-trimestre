@@ -89,6 +89,10 @@ frutas= {
 
 print(frutas)
 
+kilo= float(input"Cuantos kilos de Uva quiere: ")
+kilo2= float(input"Cuantos kilos de Limon quiere: ") #programa
+kilo3= float(input"Cuantos kilos de Naranja quiere: ")
+
 
 
 
