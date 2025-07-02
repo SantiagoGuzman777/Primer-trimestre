@@ -183,7 +183,7 @@ print(f"el promedio del equipo es {promedio}, del equipo {num})"""
 #--------------------------------ejercicio 1.2 --------------------------------------------
 
 # nombres=["Ana","Luis"]
-# nombres.append("Carlos"
+# nombres.append("Carlos")
 # print(nombres)
 
 #-------------------------------ejercicio 2.1----------------------------
