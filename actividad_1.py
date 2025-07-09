@@ -25,9 +25,9 @@
 # animal= "perro"
 # print (animal)
 #------------------------------------------ejercicio7----------------------------------------------
-# presentacion= input("ingrese su nombre: ")
-
-# print(f"{presentacion},{presentacion2}")
+# presentacion= input("ingrese su nombre : ")
+# presentacion2=input("ingrese su ciudad: ")
+# print(f"su nombre es {presentacion}, {presentacion2}")
 #------------------------------------------ejercicio8----------------------------------------------
 # nombre=input("ingrese su nombre: ")
 # ciudad=input("ingrese su ciudad: ")
