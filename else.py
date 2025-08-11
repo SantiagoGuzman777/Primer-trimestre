@@ -81,7 +81,7 @@
 # elif num <= 0:
 #    print ("Es un numero neativo")
 # elif edad == 0:
-#    print ("El numero es igual a 0")  
+#    print ("El numero es igual a 0")
 
 #EJERCICIO 2
 
@@ -135,7 +135,7 @@
 #     desc = precio * 0.10
 #     preciof = precio - desc
 # else:
-#     preciof = precio 
+#     preciof = precio
 
 # print (f"El precio final es {preciof}")
 
@@ -201,7 +201,7 @@
 
 # lista= [4,6,2,8]
 
-# suma= lista[0] + lista[1] 
+# suma= lista[0] + lista[1]
 
 # if suma > 10:
 #     print("Suma alta")
@@ -250,14 +250,14 @@
 
 # EJERCICIO 18
 
-tupla= (1, 2, 3)
-lista= list(tupla)
+# tupla= (1, 2, 3)
+# lista= list(tupla)
 
-if lista[1] == 2:
-    lista[1] = 10
+# if lista[1] == 2:
+#     lista[1] = 10
 
-tupla = tuple(lista)
-print(tupla)
+# tupla = tuple(lista)
+# print(tupla)
 
 # EJERCICIO 19
 
