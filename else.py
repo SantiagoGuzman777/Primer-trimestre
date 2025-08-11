@@ -183,12 +183,8 @@
 
 # EJERCICIO 11
 
-# n1 = int(input("Numero 1 "))
-# n2 = int(input("Numero 2 "))
-# n3 = int(input("Numero 3 "))
-# n4 = int(input("Numero 4 "))
-# n5 = int(input("Numero 5 "))
-# if n3 > 10:
+# num = [4,34,2,5,10]
+# if num[2] > 10:
 #     print("Mayor a 10")
 # else:
 #     print("Menor o igual a 10")
@@ -254,14 +250,14 @@
 
 # EJERCICIO 18
 
-# tupla= (1, 2, 3)
-# lista= list(tupla)
+tupla= (1, 2, 3)
+lista= list(tupla)
 
-# if lista[1] == 2:
-#     lista[1] = 10
+if lista[1] == 2:
+    lista[1] = 10
 
-# tupla = tuple(lista)
-# print(tupla)
+tupla = tuple(lista)
+print(tupla)
 
 # EJERCICIO 19
 
