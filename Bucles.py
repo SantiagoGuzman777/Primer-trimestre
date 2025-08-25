@@ -48,10 +48,44 @@
 
 # print (f"La suma total es: {Total}")
 
+#-----------------------------EJERCICIO 2----------------------------------------
 
+# contraseña = "Python123"
 
+# while True:
+#     con = input("Ingrese la contraseña (hasta que sea correcta): ")
+#     if con == "Python123":
+#         print ("Contraseña correcta")
+#         break
 
+#--------------------------------EJERCICIO 3---------------------------------------
+# lista = []
+# pro = input("Ingrese producto (Cuando acabes de pedir productos escribe (fin)):  ")  # Se agrega input() para que el usuario ingrese un valor
 
+# while pro.lower() != "fin":
+#     lista.append(pro)  # Ahora agregamos el producto a la lista dentro del bucle
+#     pro = input("agregar otro productoo escribir ('FIN') para finalizar: ")
+
+# print(lista)  # Al final, mostramos todos los productos ingresados
+
+#------------------------------EJERCCIO 4----------------------------------
+
+# par= 0
+# impar=0
+# contador=0
+   
+# while contador <= 10:
+#  n1 = int(input ("Ingrese un numero:"))
+#  if n1 % 2 == 0:
+#     par +=1
+#  else:
+#     impar += 1
+#  contador +=1
+
+# print (f"Numeros pares : {par}")
+# print (f"Numeros impares : {impar}")
+
+#------------------------------------------EJERCICIO 5------------------------------------------
 
 
 
